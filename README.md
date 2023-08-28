@@ -9,7 +9,7 @@ Projeto desenvolvido MVP (Minimum Viable Product) para resolução de uma <stron
 
 ![janela1](https://github.com/jairfeitoza/java_web_SA5/assets/62727785/fad47c70-41d2-4b6b-bcd3-d9b8dbd9d244)
 
-![janela2](https://github.com/jairfeitoza/sa03-01/assets/62727785/8f798c97-e4d7-4fe0-9306-b16d4145c75f)
+![janela2](https://github.com/jairfeitoza/java_web_SA5/assets/62727785/d14498e4-50a4-4b53-921d-1cafdbd4d31f)
 
 <h2>Tecnologia/Framework utilizado 🤖</h2>
 <h4>Bootstrap</h4>
